@@ -209,16 +209,6 @@ This project was developed as part of my **Machine Learning / Data Science inter
 
 ---
 
-## 🔗 Links
-
-**GitHub Repository:**
-https://github.com/YOUR-USERNAME/customer-segmentation
-
-**Live Demo:**
-Add your Streamlit deployment link here.
-
----
-
 ## ⭐ If you found this project useful
 
 Feel free to ⭐ star the repository and explore the project!

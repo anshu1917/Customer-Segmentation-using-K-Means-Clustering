@@ -203,12 +203,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Internship Project
-
-This project was developed as part of my **Machine Learning / Data Science internship** to gain hands-on experience in applying machine learning techniques to a practical customer analytics problem.
-
----
-
 ## ⭐ If you found this project useful
 
 Feel free to ⭐ star the repository and explore the project!
